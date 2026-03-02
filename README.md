@@ -8,7 +8,7 @@ O objetivo principal é transformar dados transacionais em **informações clara
 
 ## 📄 Documentação Técnica
 
-[![Relatório em PDF](https://img.shields.io/badge/Download-Relat%C3%B3rio_PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/josioliveira01/Dashboard_de_Vendas_do_Xbox_com_Excel/blob/2ac027da6a5c35d5c66e0d8a83ae6319f6a5be62/Documenta%C3%A7%C3%A3o_desafio_criando_Dashboard.pdf)
+[![Relatório em PDF](https://img.shields.io/badge/Download-Relat%C3%B3rio_PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/josioliveira01/Dashboard_de_Vendas_do_Xbox_com_Excel/blob/73e16ec80c3a7661c933aaccac9b38a0ec1033b7/Documenta%C3%A7%C3%A3o_desafio_criando_Dashboard.pdf)
 
 ---
 
