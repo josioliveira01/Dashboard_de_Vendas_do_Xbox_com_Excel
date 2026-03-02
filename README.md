@@ -1,10 +1,19 @@
 # Dashboard_de_Vendas_do_Xbox_com_Excel
 
 ## 📌 Visão Geral
+<p align="justify">
 Este projeto consiste no desenvolvimento de um **dashboard analítico** com foco em **apoio à tomada de decisão estratégica**, a partir de dados de assinaturas e uso de cupons promocionais.  
-O objetivo principal é transformar dados transacionais em **informações claras, contextualizadas e acionáveis**, permitindo que gestores compreendam não apenas os resultados, mas também os comportamentos e padrões por trás deles.
+O objetivo principal é transformar dados transacionais em **informações claras, contextualizadas e acionáveis**, permitindo que gestores compreendam não apenas os resultados, mas também os comportamentos e padrões por trás deles.  
+</p>
+
+## 📄 Documentação Técnica
+
+[![Relatório em PDF](https://img.shields.io/badge/Download-Relat%C3%B3rio_PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/josioliveira01/Dashboard_de_Vendas_do_Xbox_com_Excel/blob/2ac027da6a5c35d5c66e0d8a83ae6319f6a5be62/Documenta%C3%A7%C3%A3o_desafio_criando_Dashboard.pdf)
 
 ---
+
+## 📊 Visualização dos Dados
+[![Visualizar Dashboard](https://img.shields.io/badge/Acessar-Dashboard_PDF-blue?style=for-the-badge&logo=google-analytics)](https://github.com/josioliveira01/Dashboard_de_Vendas_do_Xbox_com_Excel/blob/2ac027da6a5c35d5c66e0d8a83ae6319f6a5be62/dashboard.pdf)
 
 ## 🎯 Objetivo do Projeto
 - Analisar o desempenho do plano de assinatura  Ultimate
